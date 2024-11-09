@@ -1,5 +1,5 @@
 ## Hi there 👋
-This i Shamitha. Happy to see you.
+This is Shamitha. Happy to see you.
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
